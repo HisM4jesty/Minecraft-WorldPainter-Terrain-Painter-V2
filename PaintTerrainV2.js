@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Atakan Ulusoy
+// Licensed under the MIT License.
+
 // script.name=Slope & Height Terrain Painter
 // script.description=Paints terrain by slope, height, water proximity and noise
 // script.param.seed.type=integer
